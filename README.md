@@ -32,7 +32,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="35" height="35"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="35" height="35"/> </a>  
 <a href="https://www.adobe.com/products/indesign.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" title="Adobe InDesign" alt="InDesign" width="30" height="30"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="30" height="30"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="30" height="30"/> </a> 
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=gruvbox)
