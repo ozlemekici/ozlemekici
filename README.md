@@ -34,6 +34,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
 </p>
 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=dark&locale=en" alt="Özlem's Github Stats" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozlemekici&show_icons=true&theme=radical&locale=en&layout=compact" alt="Özlem's Top Languages">
