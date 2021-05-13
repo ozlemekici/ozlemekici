@@ -35,7 +35,8 @@
 </p>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=dark&locale=en" alt="Özlem's Github Stats" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozlemekici&show_icons=true&theme=radical&locale=en&layout=compact" alt="Özlem's Top Languages">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=gruvbox)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=gruvbox&hide=html&langs_count=6)](https://github.com/ozlemekici/github-readme-stats)
+
 
