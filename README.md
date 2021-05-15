@@ -35,7 +35,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="30" height="30"/> </a> 
 </p>
 
-![Özlem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=flag-india)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=flag-india&hide=javascript,html&langs_count=6)](https://github.com/ozlemekici/github-readme-stats)
+![Özlem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=gruvbox&hide=javascript,html&langs_count=6)](https://github.com/ozlemekici/github-readme-stats)
 
 
