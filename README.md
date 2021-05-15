@@ -5,19 +5,15 @@
 <p align="center"><img align="center" alt="visitors" src="https://gpvc.arturio.dev/ozlemekici" /></p>
 
 
-- 🌱 I’m currently learning **C, Arduino, Python**
-
-- ⚛️ I love doing research about CS and ML
-
-- 📝 I regularly write literary articles [My Blog](https://www.levlaninnotdefteri.com/) 
+- ⚛️ I’m currently learning **Python & ML**
 
 - 💻 My personal page [https://ozlemekici.github.io/](https://ozlemekici.github.io/)
 
-- 💬 Ask me about **Matlab, AutoCad, Html, Css**
-
 - 📫 How to reach me **ozlemekici9774@gmail.com**
 
-- 😊 You can feel free to add me on [LinkedIN](https://linkedin.com/in/ozlemekici) or [Instagram](https://www.instagram.com/ozzlemekici/)
+- 📝 I regularly write literary articles [My Blog](https://www.levlaninnotdefteri.com/) 
+
+- 💬 You can feel free to add me on [LinkedIN](https://linkedin.com/in/ozlemekici) or [Instagram](https://www.instagram.com/ozzlemekici/)
 
 
 <h3 align="left">Languages and Tools:</h3>
