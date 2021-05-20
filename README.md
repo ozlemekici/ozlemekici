@@ -38,6 +38,6 @@
 </p>
 
 ![Özlem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=gruvbox&hide=javascript,html&langs_count=6)](https://github.com/ozlemekici/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=gruvbox&hide=html&langs_count=10)](https://github.com/ozlemekici/github-readme-stats)
 
 
