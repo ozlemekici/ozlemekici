@@ -13,7 +13,13 @@
 
 - 📝 I regularly write literary articles [My Blog](https://www.levlaninnotdefteri.com/) 
 
-- 💬 You can feel free to add me on [LinkedIN](https://linkedin.com/in/ozlemekici) or [Instagram](https://www.instagram.com/ozzlemekici/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ozlemekici" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="ozlemekici" height="25" width="25" /></a>
+<a href="https://stackoverflow.com/users/15985458" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="35" width="35" /></a>
+<a href="https://instagram.com/ozzlemekici" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="ozzlemekici" height="25" width="25" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
