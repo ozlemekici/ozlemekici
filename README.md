@@ -2,7 +2,7 @@
 <h3 align="center">Physics Engineer - Developer - Photographer - Designer</h3>
 
 <p><h4 align="center"><b>"Welcome to my profile !"</b></h4></p>
-<p align="center"><img align="center" alt="visitors" src="https://gpvc.arturio.dev/ozlemekici" /></p>
+<p align="center"><img align="center" alt="visitors" src="https://gpvc.arturio.dev/ozlemekici"/></p>
 
 
 - ⚛️ I’m currently learning **Python & ML**
