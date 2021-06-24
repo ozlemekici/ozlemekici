@@ -4,7 +4,7 @@
 <p><h4 align="center"><b>"Welcome to my profile !"</b></h4></p>
 
 
-- ⚛️ I’m currently learning **Python & ML**
+- ⚛️ I’m currently learning **Python & Quantum Computing**
 
 - 💻 My personal page [https://ozlemekici.github.io/](https://ozlemekici.github.io/)
 
