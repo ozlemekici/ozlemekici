@@ -1,16 +1,14 @@
-<h1 align="center">Hi, I'm Özlem <a href="https://www.linkedin.com/in/ozlemekici"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"></a> </h1> 
+<h1 align="center">Hi, I'm Özlem <a href="https://www.linkedin.com/in/ozlemekici"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"></a> </h1> 
 <h3 align="center">Physics Engineer - Developer</h3>
 
 
 
 
-- ⚛️ I’m currently learning **Python & Data Analysis**
-
 - 💻 My personal page [https://ozlemekici.github.io/](https://ozlemekici.github.io/)
 
 
 
-<h3 align="middle">Languages and Tools: </h3>
+<h3 align="center">Languages and Tools: </h3>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="python" width="40" height="35"/> </a>
 <a href="https://www.gnu.org/software/octave/index" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" title="GNU Octave" alt="GNU Octave" width="30" height="30"/> </a>
 <a href="https://www.autodesk.com/autocad" target="_blank"> <img src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/autocad.svg" title="AutoCad" alt="Autocad" width="30" height="30"/> </a>
