@@ -2,12 +2,6 @@
 <h3 align="center">Data Analyst | Python Developer | Physics Engineer | Power BI Expert</h3>
 
 
-
-
-- 💻 My personal page [https://ozlemekici.github.io/](https://ozlemekici.github.io/)
-
-
-
 <h3 align="left">Languages and Tools: </h3>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="python" width="40" height="35"/> </a>
 <a href="https://www.gnu.org/software/octave/index" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" title="GNU Octave" alt="GNU Octave" width="30" height="30"/> </a>
