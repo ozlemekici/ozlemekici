@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Özlem <a href="https://www.linkedin.com/in/ozlemekici"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"></a> </h1> 
-<h3 align="center">Data Scientist | Power BI Expert | Python Developer | Physics Engineer</h3>
+<h3 align="left">Data Scientist | Power BI Expert | Python Developer | Physics Engineer</h3>
 
+![](https://komarev.com/ghpvc/?username=ozlemekici&color=brightgreen&style=flat)
 
-<h3 align="left">Languages and Tools: </h3>
+<h4 align="left">Languages and Tools: </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
@@ -22,24 +23,13 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=ozlemekici&color=orange)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlemekici&count_private=true&show_icons=true&theme=github_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlemekici&count_private=true&show_icons=true&theme=gotham" />
 </a>
 
-<br/> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=gotham&hide=html&langs_count=12)](https://github.com/ozlemekici/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=github_dark&hide=html&langs_count=12)](https://github.com/ozlemekici/github-readme-stats)
-
-<br/> 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozlemekici&theme=elegant)](https://git.io/streak-stats)
-<br/> 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozlemekici&theme=gotham)](https://git.io/streak-stats)
 
 <div> <img src="https://github.com/ozlemekici/ozlemekici/blob/output/github-contribution-grid-snake.svg" /></div>
 
-<br/>
-
+<br/> 
