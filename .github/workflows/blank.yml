@@ -20,9 +20,12 @@ jobs:
           github_user_name: ozlemekici
 
           # path of the generated gif file
-          # If left empty, the gif file will not be generated
-          gif_out_path: dist/github-contribution-grid-snake.gif
+    # If left empty, the gif file will not be generated
+    gif_out_path: dist/github-contribution-grid-snake.gif
 
+    # path of the generated svg file
+    # If left empty, the svg file will not be generated
+    svg_out_path: dist/github-contribution-grid-snake.svg
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
