@@ -3,20 +3,42 @@
 
 
 <h3 align="left">Languages and Tools: </h3>
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="python" width="40" height="35"/> </a>
-<a href="https://www.gnu.org/software/octave/index" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" title="GNU Octave" alt="GNU Octave" width="30" height="30"/> </a>
-<a href="https://www.autodesk.com/autocad" target="_blank"> <img src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/autocad.svg" title="AutoCad" alt="Autocad" width="30" height="30"/> </a>
-<a href="https://jupyter.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" title="Jupyter" alt="Jupyter" width="30" height="30"/> </a>
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="Matlab" alt="matlab" width="30" height="30"/> </a>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="arduino" width="30" height="30"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="30" height="30"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="35" height="35"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="35" height="35"/> </a>  
-<a href="https://www.adobe.com/products/indesign.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" title="Adobe InDesign" alt="InDesign" width="30" height="30"/> </a>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Octave](https://img.shields.io/badge/OCTAVE-F54A2A?style=for-the-badge&logo=octave&logoColor=fcd683)
+![Power BI](https://img.shields.io/badge/MS_Power_BI-%23ED8B00.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Lab](https://img.shields.io/badge/jupyter-%233F4F75.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=gruvbox&hide=html&langs_count=12)](https://github.com/ozlemekici/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=ozlemekici&color=yellow)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlemekici&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+
+<br/> 
+<br/> 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozlemekici&theme=elegant)](https://git.io/streak-stats)
+<br/> 
+
+<!--
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ozlemekici&theme=elegant" /></div>
+<br/> 
+-->
+
+<div> <img src="https://github.com/ozlemekici/ozlemekici/blob/output/github-snake.gif" /></div>
+
+<br/>
+
 
 
