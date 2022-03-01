@@ -21,7 +21,7 @@ jobs:
 
           # path of the generated gif file
           # If left empty, the gif file will not be generated
-          gif_out_path: dist/github-snake.gif
+          gif_out_path: dist/github-contribution-grid-snake.gif
 
           
       # push the content of <build_dir> to a branch
