@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-F54A2A?style=for-the-badge&logo=octave&logoColor=fcd683)
+![Matlab](https://img.shields.io/badge/Matlab-%23404d59.svg?style=for-the-badge&logo=matlab&logoColor=white)
 ![Power BI](https://img.shields.io/badge/MS_Power_BI-3ECF8E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20Sever-%23ED8B00.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -21,6 +22,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 
 
