@@ -16,7 +16,7 @@
 <a href="https://www.adobe.com/products/indesign.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" title="Adobe InDesign" alt="InDesign" width="30" height="30"/> </a>
 </p>
 
-![Özlem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozlemekici&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=gruvbox&hide=html&langs_count=12)](https://github.com/ozlemekici/github-readme-stats)
 
 
