@@ -22,25 +22,24 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=dkarakay&color=orange)
+![](https://komarev.com/ghpvc/?username=ozlemekici&color=orange)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlemekici&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 
 <br/> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=github_dark&hide=html&langs_count=12)](https://github.com/ozlemekici/github-readme-stats)
+
 <br/> 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozlemekici&theme=elegant)](https://git.io/streak-stats)
 <br/> 
 
-<!--
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=dkarakay&theme=elegant" /></div>
-<br/> 
--->
 
-<div> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
+<div> <img src="https://github.com/ozlemekici/ozlemekici/blob/output/github-snake.gif" /></div>
 
 <br/>
 
