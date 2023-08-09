@@ -32,7 +32,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ozlemekici&theme=gotham&border_radius=4)](https://git.io/streak-stats)
 
-# <div> <img src="https://github.com/ozlemekici/ozlemekici/blob/output/github-contribution-grid-snake.svg" /></div>
+ ![Snake animation](https://github.com/ozlemekici/ozlemekici/blob/output/github-contribution-grid-snake.svg)
 
 <br/> 
 
