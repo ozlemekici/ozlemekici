@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemekici&layout=compact&theme=gotham&hide=jupyter%20notebook,scss,css,html&langs_count=15)](https://github.com/ozlemekici/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozlemekici&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ozlemekici&theme=gotham&border_radius=4)](https://git.io/streak-stats)
 
 # <div> <img src="https://github.com/ozlemekici/ozlemekici/blob/output/github-contribution-grid-snake.svg" /></div>
 
