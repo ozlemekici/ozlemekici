@@ -7,6 +7,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-F54A2A?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Matlab](https://img.shields.io/badge/Matlab-%23404d59.svg?style=for-the-badge&logo=matlab&logoColor=white)
 ![Power BI](https://img.shields.io/badge/MS_Power_BI-3ECF8E?style=for-the-badge&logo=microsoft&logoColor=white)
