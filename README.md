@@ -1,5 +1,5 @@
 <h1 align="center">Hello!! </h1> 
-<h3 align="left"> AI Engineer | Data Scientist | Physics Engineer </h3>
+<h3 align="left"> AI Developer | Data Scientist | Physics Engineer </h3>
 
 ![](https://komarev.com/ghpvc/?username=ozlemekici&color=brightgreen&style=flat)
 
