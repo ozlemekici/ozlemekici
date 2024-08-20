@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  about me</h3>
+<h3 align="center">👩‍💻  about me</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">💫 connect with me</h3>
+<h3 align="center">💫 connect with me</h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">🛠 language and tools</h3>
+<h3 align="center">🛠 language and tools</h3>
 
 ###
 
@@ -97,7 +97,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h3 align="center">🔥   My Stats</h3>
 
 
 <div align="center">
