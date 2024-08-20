@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭  I'm currently working as an AI developer<br>- 📚 I'm currently learning LLM and RAG<br>- 💬 Ask me about Python and Self-Development<br>- ⚡ During my free time, I enjoy pursuing my passion for photography and blogging</p>
+<p align="center">- 🔭  I'm currently working as an AI developer<br>- 📚 I'm currently learning LLM and RAG<br>- 💬 Ask me about Python and Self-Development<br>- ⚡ During my free time, I enjoy pursuing my passion for photography and blogging</p>
 
 ###
 
