@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <a href="https://linktr.ee/ozlemekici" target="_blank">
+  <a href="https://linktr.ee/ozlemelo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ozlemekici/" target="_blank">
@@ -24,8 +24,8 @@
   <a href="mailto:ozlemekici9774@gmail.com?subject=Merhaba" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/levlapad" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://medium.com/@ozlemelo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
 
