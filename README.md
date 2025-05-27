@@ -99,11 +99,11 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ozlemekici&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ozlemekici&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozlemekici&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ozlemekici&theme=matrix&column=-1&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozlemekici&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=true&hide_title=false" height="180" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=ozlemelo&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ozlemelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozlemelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ozlemelo&theme=matrix&column=-1&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozlemelo&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=true&hide_title=false" height="180" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -111,18 +111,18 @@
 <p align="center">visitor's count 👀</p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ozlemekici/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ozlemelo/count.svg?"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/ozlemekici/ozlemekici/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ozlemelo/ozlemelo/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <p align="center">help me by donating ☕ </p>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/ozlemekici" target="_blank">
+  <a href="https://www.buymeacoffee.com/ozlemelo" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="50" alt="Buy Me A Coffee"  />
   </a>
 </div>
