@@ -109,13 +109,7 @@
   </a>
 </div>
 
- ###
-
-<p align="center">👀 visitor's count</p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ozlemelo/count.svg?"  />
-</div>
-
+ 
 ###
 
 <p align="center">✍️ random dev quote</p>
