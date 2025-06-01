@@ -6,7 +6,7 @@
  
 ###
 
-<p align="center">- 🔭  I'm currently working as a Data Scientist<br>- 📚 I'm currently learning LLM and RAG<br>- 💬 Ask me about Python and Self-Development<br>- ⚡ During my free time, I enjoy pursuing my passion for photography and blogging</p>
+<p align="center">- 🔭  I'm currently working as an AI Engineer <br>- 📚 I'm currently learning AI Agent and Agentic AI<br>- 💬 Ask me about AI and Self-Development<br>- ⚡ During my free time, I enjoy pursuing my passion for photography and blogging</p>
 
 ###
 
@@ -38,6 +38,15 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+ <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -50,11 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
   <img width="12" />
@@ -64,8 +69,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
@@ -74,19 +77,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/octave/0790C0" height="40" alt="octave logo"  />
   <img width="12" />
