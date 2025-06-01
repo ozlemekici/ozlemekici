@@ -30,6 +30,9 @@
   <a href="https://www.upwork.com/freelancers/~01550e7089fbce960f" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white&style=for-the-badge" height="25" alt="Upwork" />
   </a>
+  <a href="https://huggingface.co/ozlemelo" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge" height="25" alt="HuggingFace" />
+  </a>
 </div>
 
 <h3 align="center">🛠 languages & tools</h3>
